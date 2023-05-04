@@ -1,0 +1,15 @@
+The Dragon Cometh
+
+0. empty source file
+1. write constant
+2. write variable
+3. read variable, write variable
+4. read variable, modify variable, write variable
+5. read variable, call subprogram to modify variable, write variable
+6. if statement
+7. while statement
+8. support recursive subprograms
+9. modify nonlocal variable
+10. array support
+11. rational support
+
